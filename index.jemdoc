@@ -1,0 +1,169 @@
+= Liyao Xiang 
+
+~~~
+{}{img_left}{images/liyao2.jpg}{Liyao Xiang's photo}{216}{226}
+Associate Professor
+
+[http://jhc.sjtu.edu.cn John Hopcroft Center for Computer Science]\n
+[https://www.sjtu.edu.cn Shanghai Jiao Tong University]
+
+=== Contact
+No. 1 Software Building (软件楼) Room 1408-2, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai\n
+xiangliyao08 \[at\] sjtu \[dot\] edu \[dot\] cn\n
+[http://xiangliyao.cn]
+
+[https://scholar.google.com/citations?user=lnE2EFIAAAAJ&hl=en&oi=ao Google Scholar]
+~~~
+
+== About Me
+I am an Associate Professor (tenured) at [http://jhc.sjtu.edu.cn John Hopcroft Center for Computer Science] of [https://www.sjtu.edu.cn Shanghai Jiao Tong University]. I am also a faculty member of [http://iiot.sjtu.edu.cn/index_ch.html Intelligent Internet of Things] [http://iiot.sjtu.edu.cn/ (IIOT) Research Center]. I obtained my Ph.D. and master's degrees in [http://www.ece.utoronto.ca Department of Electrical and Computer Engineering] at [http://www.utoronto.ca University of Toronto], respectively in 2018 and 2015. My advisor is [http://iqua.ece.toronto.edu/bli/ Prof. Baochun Li]. I received the B.S. degree from the [http://english.seiee.sjtu.edu.cn Department of
+Electronic Engineering] at [http://en.sjtu.edu.cn Shanghai Jiao Tong
+University] in 2012.
+
+My current research interests cover the intersected areas of security, privacy, machine learning, and mobile computing. Topics include data privacy, security and privacy in data mining and machine learning, intelligent edge computing, etc. Particularly, I am interested in identifying fundamental security and privacy threats in machine learning systems, and designing practical countermeasures.
+
+== Prospective Students
+
+I am always looking for self-motivated students who are interested in pursuing a master's or Ph.D. degrees in the broad areas of machine learning, security, privacy, and mobile computing. Please send me an email if you are interested.
+
+== Students and Alumni
+
+I am greatful to the wonderful students I have been collaborating with. It is an honor and great joy working with you😀
+
+Ph.D. Students: Haohua Duan, Shiming Wang, Wei Li, Fupei Chen, Hang Yin
+
+Master Students: Zhe Ji, Borui Yang, Hangyu Ye
+
+Ph.D. Alumni: Hui Xu (Alogrithm Engineer at Baidu, co-supervised), [https://chaos-yang.github.io/yangjungang.github.io/ Jungang Yang] (Lecturer at Shanghai University)
+
+Master Alumni: Shuang Zhang (Baidu), Weiting Li (Pinduoduo), Xi Yu (China Telecom)
+
+Undergraduate Alumni: Lingdong Wang (Ph.D. student at UMass), Shufan Wang (graduated from EPFL), Guoqing Xin (TPLink at Shenzhen), Jiayu Xu, Jiaju Chen (Huawei at Shenzhen), Ningyi Liao (Ph.D. student at NTU), Jiahao Yu (Ph.D. student at Penn. State University), [https://dixiyao.github.io Dixi Yao] (Ph.D. student at the University of Toronto, supervised by [http://iqua.ece.toronto.edu/bli/ Prof. Baochun Li]), Qiansiqi Hu (Master student at the Chinese University of Hong Kong), Hengyuan Xu (Master student at Fudan University), Kaiyuan Shi (Master student at Shanghai Jiao Tong University), Zedong Peng (Master student at Shanghai Jiao Tong University)
+
+ 
+== Teaching
+
+Spring 2021, 2023-2025: EE359 or AI3602 Data Mining
+
+Spring 2019, 2020: EE226 [http://jhc.sjtu.edu.cn/public/courses/EE226 Big Data Mining]
+
+Fall 2019-2024: CS149 or CS0501 Data Structure and Algorithms
+
+== Journal Articles and Conference Proceedings
+
+Papers are organized by categories. \# represents for co-first authors. * stands for corresponding author(s).
+
+=== Watermarking for AI
+
+\[ACM MM' 24\] Zhe Ji; Qiansiqi Hu; Yicheng Zheng; Liyao Xiang*; Xinbing Wang; ``[https://dl.acm.org/doi/10.1145/3664647.3681544 A Principled Approach to Natural Language Watermarking]," in the ACM Multimedia (ACM MM), Melbourne, Australia, Oct. 28 - Nov. 1, 2024. (CCF-A) 
+
+\[IEEE S\&P' 24\] Borui Yang; Wei Li; Liyao Xiang*; Bo Li; ``[https://arxiv.org/pdf/2309.00860.pdf SrcMarker: Dual-Channel Source Code Watermarking via Scalable Code Transformations]," in the IEEE Symposium on Security and Privacy (IEEE S\&P), San Francisco, US, May 20-23, 2024. (CCF-A, acceptance rate: 14.9\%)
+
+=== Privacy for AI
+
+\[CCS' 24\] Shiming Wang; Liyao Xiang*; Bowei Cheng; Zhe Ji; Tianran Sun; Xinbing Wang; ``[https://dl.acm.org/doi/10.1145/3658644.3690367 Curator Attack: When Blackbox Differential Privacy Auditing Loses Its Power]," in the ACM Conference on Computer and Communications Security (CCS), Salt Lake City, U.S.A., Oct. 14-18, 2024. (CCF-A)
+
+\[CVPR '24\] Hengyuan Xu; Liyao Xiang*; Hangyu Ye; Dixi Yao; Pengzhi Chu; Baochun Li; ``[https://arxiv.org/abs/2304.07735 Permutation Equivariance of Transformers and Its Applications]," in Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), Seattle, USA, June 17-21, 2024. (CCF-A)
+
+\[NDSS'24\] Shiming Wang; Zhe Ji; Liyao Xiang*; Hao Zhang; Xinbing Wang; Chenghu Zhou; Bo Li; ``[https://www.ndss-symposium.org/wp-content/uploads/2024-326-paper.pdf Crafter: Facial Feature Crafting against Inversion-based Identity Theft on Deep Models]," in Network and Distributed System Security (NDSS) Symposium, San Diego, USA, Feb.26-Mar.1, 2024. (CCF-A)
+
+\[TMC'23\] Liyao Xiang\#*; Shuang Zhang\#; Quanshi Zhang; ``[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10347457 Learning to Prevent Input Leakages in the Mobile Cloud Inference]," in IEEE Transactions on Mobile Computing (TMC), page(s): 1-14, Print ISSN: 1536-1233, Digital Object Identifier: 10.1109/TMC.2023.3340338, 2023. (CCF-A)
+
+\[ESORICS'23\] Xi Yu; Liyao Xiang*; Shiming Wang; Chengnian Long; ``[https://link.springer.com/chapter/10.1007/978-3-031-51482-1_7 Privacy-Preserving Split Learning via Pareto Optimal Search]," in the 28th European Symposium on Research in Computer Security (ESORICS), The Hague, The Netherlands, Sept.25-29, 2023. (CCF-B)
+
+\[INFOCOM'23\] Zhe Ji; Qiansiqi Hu; Liyao Xiang*; Chenghu Zhou; ``[https://ieeexplore.ieee.org/document/10229036 Mixup Training for Generative Models to Defend Membership Inference Attacks]," in Proc. IEEE International Conference on Computer Communications (INFOCOM), New York area, USA, May 17-20, 2023. [slides/infocom-23zhe.pdf Slides] (CCF-A)
+
+\[TIFS'22\] Weiting Li; Liyao Xiang*; Bin Guo; Zhetao Li; Xinbing Wang; ``[https://ieeexplore.ieee.org/document/9997560 DPlanner: A Privacy Budgeting System for Utility]," in IEEE Transactions on Information Forensics \& Security (TIFS), Digital Object Identifier: 10.1109/TIFS.2022.3231786, 2022. (CCF-A)
+
+\[ICDM'22\] Dixi Yao; Liyao Xiang*; Hengyuan Xu; Hangyu Ye; Yingqi Chen;``[https://ieeexplore.ieee.org/document/10027647 Privacy-Preserving Split Learning via Patch Shuffling over Transformers]," in Proc. 22nd IEEE International Conference on Data Mining (ICDM), Orlando, USA, Nov.28-Dec.1, 2022. (CCF-B)
+
+\[TMC'21\] Liyao Xiang*;Weiting Li; Jungang Yang; Xinbing Wang; Baochun Li; ``[https://ieeexplore.ieee.org/document/9625834 Differentially-Private Deep Learning with Directional Noise]," in IEEE Transactions on Mobile Computing (TMC), 2021. (CCF-A)
+
+\[TMC'21\] Jungang Yang\#; Liyao Xiang\#*; Jiahao Yu; Xinbing Wang; Bin Guo; Zhetao Li; Baochun Li; ``[https://ieeexplore.ieee.org/document/9475590/ Matrix Gaussian Mechanisms for Differentially-Private Learning]," in IEEE Transactions on Mobile Computing (TMC), Digital Object Identifier: 10.1109/TMC.2021.3093316, 2021. (CCF-A)
+
+\[TIFS'21\] Jungang Yang\#; Liyao Xiang\#*; Ruidong Chen; Weiting Li; Baochun Li; ``[https://ieeexplore.ieee.org/document/9456908/ Differential Privacy for Tensor-Valued Queries]," in IEEE Transactions on Information Forensics \& Security (TIFS), Digital Object Identifier: 10.1109/TIFS.2021.3089884, 2021. (CCF-A)
+
+\[INFOCOM'21\] Weiting Li; Liyao Xiang*; Zhou Zhou; Feng Peng; ``[papers/infocom21-weiting.pdf Privacy Budgeting for Growing Machine Learning Datasets]," in Proc. IEEE International Conference on Computer Communications (INFOCOM), Virtual, May 10-13, 2021. (CCF-A)
+
+\[ICDCS'20\] Liyao Xiang*; Lingdong Wang; Shufan Wang; Baochun Li; ``[papers/icdcs-20.pdf Achieving Consensus in Privacy-Preserving Decentralized Learning]," in Proc. IEEE International Conference on Distributed Computing Systems (ICDCS), Singapore, July 8 - 10, 2020. (CCF-B)
+
+\[ICLR'20\] Liyao Xiang; Hao Zhang; Haotian Ma; Yifan Zhang; Jie Ren; Quanshi Zhang*; ``[papers/iclr-20.pdf Interpretable Complex-Valued Neural Networks for Privacy Protection]," in Proc. International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 26-30, 2020.(清华A类)
+
+\[INFOCOM'19\] Liyao Xiang*; Jingbo Yang; Baochun Li; ``[papers/infocom-19.pdf Differentially-Private Deep Learning from an Optimization Perspective]," in Proc. IEEE International Conference on Computer Communications (INFOCOM), Paris, France, April 29-May 2, 2019. [slides/infocom-19.pdf Slides] (CCF-A)
+
+
+=== Trustworthy and Robust Learning
+
+\[TDSC'24\] Haohua Duan; Zedong Peng; Liyao Xiang*; Yuncong Hu; Bo Li; ``[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10444899 A Verifiable and Privacy-Preserving Federated Learning Training Framework]," in IEEE Transactions on Dependable and Secure Computing (TDSC), Digital Object Identifier: 10.1109/TDSC.2024.3369658, 2024. (CCF-A)
+
+\[TIFS'23\] Haohua Duan; Liyao Xiang*; Xinbing Wang; Pengzhi Chu; Chenghu Zhou; ``[https://ieeexplore.ieee.org/document/10164203 A New Zero Knowledge Argument for General Circuits and Its Application]," in IEEE Transactions on Information Forensics \& Security (TIFS), Vol.18, Page(s)3906-3920, Digital Object Identifier: 10.1109/TIFS.2023.3288454, 2023. (CCF-A)
+
+\[TDSC'23\] Jungang Yang; Liyao Xiang*; Pengzhi Chu; Xinbing Wang; Chenghu Zhou; ``[https://ieeexplore.ieee.org/document/10093123 Certified Distributional Robustness on Smoothed Classifiers]," in IEEE Transactions on Dependable and Secure Computing (TDSC), Page(s)1-12, Digital Object Identifier: 10.1109/TDSC.2023.3264850, 2023. (CCF-A)
+
+\[MLJ'21\] Ningyi Liao\#; Shufan Wang\#; Liyao Xiang*; Nanyang Ye; Shuo Shao; Pengzhi Chu; ``[https://rdcu.be/czo2Y Achieving Adversarial Robustness via Sparsity]," in Machine Learning, Digital Object Identifier: 10.1007/s10994-021-06049-9, 2021. (CCF-B)
+
+=== Graph Learning
+
+\[NeurIPS' 24\] Hang Yin; Liyao Xiang∗; Dong Ding; Yuheng He; Yihan Wu; Pengzhi Chu; Xinbing Wang; Chenghu Zhou; ``LAMBDA: Learning Matchable Prior For Entity Alignment with Unlabeled Dangling Cases," in the 38th Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Dec. 10-15, 2024. (CCF-A)
+
+\[KDD'23\] Hui Xu; Liyao Xiang*; Femke Huang; Yuting Weng; Ruijie Xu; Xinbing Wang; Chenghu Zhou; ``[https://dl.acm.org/doi/10.1145/3580305.3599368 Grace: Graph Self-Distillation and Completion to Mitigate Degree-Related Biases]," in the 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Long Beach, CA, US, Aug. 6-10, 2023. [slides/kdd-23xuhui.pdf Slides] (CCF-A)
+
+\[TKDD'23\] Hui Xu; Liyao Xiang*; Xiaoying Gan; Luoyi Fu; Xinbing Wang; Chenghu Zhou; ``[https://dl.acm.org/doi/abs/10.1145/3638056 Distributional Learning for Network Alignment with Global Constraints]," in ACM Transactions on Knowledge Discovery in Data (TKDD), Digital Object Identifier: 10.1145/3638056, 2023. (CCF-B)
+ 
+\[TKDD'23\] Hui Xu; Liyao Xiang*; Junjie Ou; Yuting Weng; Xinbing Wang; Chenghu Zhou; ``[https://dl.acm.org/doi/10.1145/3607144 Open-World Graph Active Learning for Node Classification]," in ACM Transactions on Knowledge Discovery in Data (TKDD), Vol.18, No.2, Page(s)1-20, Digital Object Identifier: 10.1145/3607144, 2023. (CCF-B)
+
+\[CIKM'21\] Hui Xu; Liyao Xiang\*; Jiahao Yu; Anqi Cao; Xinbing Wang\*; ``[papers/cikm21-hui.pdf Speedup Robust Graph Structure Learning with Low-Rank Information]," in 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual, Nov. 1-5, 2021. (CCF-B)
+
+
+=== Privacy Applications
+
+\[TDSC'23\] Wei Li; Borui Yang; Hangyu Ye; Liyao Xiang*; Qingxiao Tao; Xinbing Wang; Chenghu Zhou; ``[https://ieeexplore.ieee.org/abstract/document/10197457 MiniTracker: Large-Scale Sensitive Information Tracking in Mini Apps]," in IEEE Transactions on Dependable and Secure Computing (TDSC), Page(s)1-17, Digital Object Identifier: 10.1109/TDSC.2023.3299945, 2023. (CCF-A)
+
+\[GLOBECOM'23\] Fupei Chen; Liyao Xiang*; Hei Victor Cheng; Kaiming Shen; ``Deep Learning Enabled Semantic-Secure Communication with Shuffling," in IEEE Global Communications Conference (GlobeCom),  Kuala Lumpur, Malaysia, Dec.4–8, 2023.
+
+=== Intelligent Edge
+
+\[Ubicomp'22\] Dixi Yao; Liyao Xiang*; Zifan Wang; Jiayu Xu; Chao Li; Xinbing Wang; ``[https://dl.acm.org/doi/10.1145/3494981 Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud]," in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, also UbiComp/ISWC), Issue 4, Vol. 5, December 2021. (CCF-A)
+
+\[ICDCS'21\] Dixi Yao\#; Lingdong Wang\#; Jiayu Xu; Liyao Xiang∗; Shuo Shao; Yingqi Chen; Yanjun Tong; ``[papers/icdcs-dixi-21.pdf Federated Model Search via Reinforcement Learning]," in Proc. IEEE International Conference on Distributed Computing Systems (ICDCS), Virtual, July 7 –10, 2021. (CCF-B)
+
+\[ICDCS'20\] Lingdong Wang; Liyao Xiang*; Jiayu Xu; Jiaju Chen; Xing Zhao; Dixi Yao; Xinbing Wang; Baochun Li; ``[papers/icdcs-lingdong-20.pdf Context-Aware Deep Model Compression for Edge Cloud Computing]," in Proc. IEEE International Conference on Distributed Computing Systems (ICDCS), Singapore, July 8 - 10, 2020. (CCF-B)
+
+=== Mobile Cloud Computing
+
+\[JSAC'17\] Liyao Xiang*; Tzu-Yin Tai; Baochun Li; Bo Li; ``[papers/jsac-17.pdf Tack: Learning Towards Contextual and Ephemeral Indoor Localization With Crowdsourcing]," in IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Human-In-The-Loop Mobile Networks, vol. 35, no. 4, pp. 863-879, April 2017. [slides/jsac-17.pdf Slides]. (CCF-A)
+
+\[CNS'17\] Liyao Xiang*; Baochun Li; Bo Li; ``[papers/cns-17.pdf Privacy-Preserving Inference in Crowdsourcing Systems]," in Proc. IEEE Conference on Communications and Network Security (IEEE CNS), Las Vegas, NV, October 9-11, 2017. [slides/cns-17.pdf Slides].
+
+\[ICCCN'15\] Liyao Xiang*; Baochun Li; Bo Li; ``[papers/icccn-15.pdf Coalition Formation towards Energy-Efficient Collaborative Mobile Computing]," in Proc. International Conference on Computer Communications and Networks (ICCCN 2015), Las Vegas, NV, August 3-6, 2015. [slides/icccn-15.pdf Slides].
+
+\[INFOCOM'14\] Liyao Xiang*; Shiwen Ye; Yuan Feng; Baochun Li; Bo Li; ``[papers/infocom-14.pdf Ready, Set, Go: Coalesced Offloading from Mobile Devices to the Cloud]," in Proc. IEEE International Conference on Computer Communications (INFOCOM 2014). Acceptance ratio: 19%. [slides/infocom-14.pdf Slides]. (CCF-A)
+
+\[WCNC'12\] Liyao Xiang*; Gaofei Sun; Jing Liu; Xinbing Wang; Li Li; ``A Discriminatory Pricing Double Auction for Spectrum Allocation," in Proc. IEEE Wireless Communications and Networking Conference (WCNC 2012).
+
+== Grants
+
+国家自然科学基金委员会面上项目，62272306 , 面向隐式表征的端-云协同数据安全技术， 2023.01-2026.12，主持
+
+华为-上海交通大学网络空间安全学院创新实验室合作项目，基于梯度分布的机器学习差分隐私算法研究技术项目（YBN2019105168-SOW15），主持
+
+国家自然科学基金委员会重点项目，62032020，新型群智感知网络中数据深度获取与服务化计算，2021.01.01-2025.12.31，第二参与
+
+CCF-蚂蚁科研基金项目，CCF-AFSGRF20200007，多方数据共享场景下的隐私保护机制研究，2020.11.1-2021.10.31，主持
+
+国家自然科学基金委青年基金项目，61902245，移动端深度学习系统中的隐私保护研究，2020.01-2022.12，主持
+
+上海市科委扬帆计划项目，19YF1424500，深度学习应用中的个人数据隐私保护研究，2019.05-2022.04，主持
+
+
+== Professional Services
+
+TPC for AAAI 2025, ICDM 2024, KDD 2023, ICDM 2023, SDM 2023, ICDCS 2021, poster/demo session of INFOCOM 2019, IEEE MASS, IEEE GLOBECOM, IEEE CIC ICCC.
+
+Reviewer for Conference Manuscript Submissions: NeurIPS 2024, ICLR 2025
+
+Reviewer for Journal Manuscript Submissions: IEEE TIFS, IEEE TDSC, IEEE TMC, IEEE/ACM TON, IEEE Transactions on Services Computing, Multimedia Systems Springer Journals
+
+#Reviewer for Conference Manuscript Submissions: ACM CoNEXT, ACM SIGMETRICS, ACM MobiCom, ACM Multimedia, ACM MMSys, ACM NOSSDAV, IEEE ICNP, IEEE ICDCS, IEEE IWQoS, IEEE SECON, IEEE MASS, IEEE GLOBECOM, IEEE ICC, IEEE IC2E, IEEE NetCod, IEEE CNS.
+
+
